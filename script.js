@@ -1,4 +1,3 @@
-// Get references to the HTML elements
 const inputText = document.getElementById('text');
 const inputDelay = document.getElementById('delay');
 const button = document.getElementById('btn');
